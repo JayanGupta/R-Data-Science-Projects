@@ -6,3 +6,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update Car Sales valuation model in R
 - **Technical Summary**: Engineered age, mileage, and brand tier interaction features with glm.
 
+### Milestone Log - 2025-09-29 (14:54)
+- **Focus**: refactor: optimize credit card fraud analytics notebook
+- **Technical Summary**: Applied anomaly detection and class-balanced logistic regression.
+
