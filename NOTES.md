@@ -250,3 +250,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize credit card fraud analytics notebook
 - **Technical Summary**: Applied anomaly detection and class-balanced logistic regression.
 
+### Milestone Log - 2026-02-28 (14:49)
+- **Focus**: docs: update Car Sales valuation model in R
+- **Technical Summary**: Engineered age, mileage, and brand tier interaction features with glm.
+
